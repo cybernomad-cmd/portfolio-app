@@ -1,18 +1,27 @@
-# Project Gallery
+Project Showcase
+Overview
 
-# React App
-This project was created using Create React App.
+Project Showcase is a minimal React application for creating, organizing, and browsing design projects in a structured gallery format. It focuses on simplicity, allowing users to quickly add and manage project entries with a clean interface.
 
-## Scripts
-In the project directory, you can run:
+Key Features
+➕ Add new projects with title and description
+📂 Organized project index with numbered entries
+🔍 Search projects by title or keyword
+❌ Remove projects dynamically
+🎨 Clean, minimal UI inspired by portfolio-style layouts
+⚡ Fast and responsive (built with React)
 
-### `npm start`
-Runs the app locally.  
-Open - Local: http://localhost:3000 │ Network: http://192.168.56.1:3000 
-Copy local address to clipboard
+Demo / Screenshot
+Note: Local development preview
 
-### `npm test`
-Runs tests in watch mode.
+Local: http://localhost:3000
+Network: http://192.168.56.1:3000
 
-### `npm run build`
-Builds the app for production.
+Tech Stack
+Frontend: React (Create React App)
+State Management: React Hooks
+Styling: CSS (custom minimalist design)
+Tooling: npm, Webpack (via CRA)
+
+## Notes
+This project was built as part of my learning process in React and UI design.
