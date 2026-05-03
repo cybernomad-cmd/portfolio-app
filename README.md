@@ -1,4 +1,4 @@
-# React Portfolio
+# Project Gallery
 
 # React App
 This project was created using Create React App.
