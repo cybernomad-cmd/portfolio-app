@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Portfolio
 
 # React App
 This project was created using Create React App.
