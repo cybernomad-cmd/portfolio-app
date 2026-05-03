@@ -8,7 +8,12 @@ In the project directory, you can run:
 
 ### `npm start`
 Runs the app locally.  
-Open http://localhost:3000 to view it in your browser.
+Open!
+   │                                          │
+   │   - Local:    http://localhost:3000      │
+   │   - Network:  http://192.168.56.1:3000   │
+   │                                          │
+   │   Copied local address to clipboard
 
 ### `npm test`
 Runs tests in watch mode.
